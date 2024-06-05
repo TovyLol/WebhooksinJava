@@ -7,11 +7,11 @@ import java.net.URL;
 
 public class Main {
     public static void main(String[] args) {
-        String webhookURL = "your discord webhook link";
-        String message = "Webhook Creation succesfull";
-        String author = "Webhook school tester smh";
-        String title = "Tovy @ 2024";
-        String color = "#FF5733";
+        String webhookURL = "your url";
+        String message = "message";
+        String author = "Webhook mf";
+        String title = "Tovy @ before christ existed";
+        String color = "#FF5743";
 
         sendWebhook(webhookURL, message, author, title, color);
     }
